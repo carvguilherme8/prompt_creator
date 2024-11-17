@@ -41,7 +41,7 @@ O funcionamento dos notebooks é a seguinte:
 
 ### Json
 
-o Json retornado terá a seguinte estrutura:
+o Json retornado terá a seguinte estrutura (para 3 promps de uma propriedade):
 
 ``` json
 [
@@ -60,9 +60,4 @@ o Json retornado terá a seguinte estrutura:
     "valor": 3,
     "prompt": "prompt com mais {propriedade} que o segundo"
     }
-    /* 
-    .
-    .
-    .
-    */
   ]
