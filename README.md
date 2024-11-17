@@ -59,10 +59,10 @@ o Json retornado terá a seguinte estrutura:
     "propriedade": "propriedade",
     "valor": 3,
     "prompt": "prompt com mais {propriedade} que o segundo"
-  }
-
-  .
-  .
-  .
-
-]
+    }
+    /* 
+    .
+    .
+    .
+    */
+  ]
